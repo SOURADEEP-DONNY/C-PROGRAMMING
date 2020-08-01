@@ -1,6 +1,6 @@
 //==============================================================================
 /* If a number is input through the keyboard, write a
-   program to calculate the sum of its digits.
+   program to reverse its digits.
 */
 //==============================================================================
 #include<stdio.h>
